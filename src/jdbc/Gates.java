@@ -14,7 +14,7 @@ public class Gates {
 		try (// --------------try-with-resources begin-------------//
 				// Creating connection
 		Connection con = (Connection) DriverManager.getConnection(
-				"anji");
+				"surya");
 			//from github
 				// Creating statement
 				Statement stmt = (Statement) con.createStatement();
